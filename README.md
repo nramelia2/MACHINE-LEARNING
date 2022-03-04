@@ -1,2 +1,3 @@
 # MACHINE-LEARNING
-Nama : Nurul Amelia
+Name  : Nurul Amelia
+Campus: Telkom University
