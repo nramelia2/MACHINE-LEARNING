@@ -1,6 +1,4 @@
-Nama  : Nurul Amelia /n
-NIM   : 1103194032 /n
-Kelas : TK-42-PIL /n
+Nurul Amelia/1103194032/TK-42-PIL
 
 Hi everybody.
 This is a link for the data used, the data can be retrieved here. because some data can't be uploaded :
